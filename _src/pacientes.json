@@ -1,0 +1,95 @@
+{
+  "_comentario": "Galeria 'Nossos pacientes'. Fotos otimizadas em assets/pacientes/ (originais em _src/originais/pacientes/). tamanho: 'alta' (2 linhas), 'larga' (2 colunas) ou '' (normal). foco: enquadramento (CSS object-position). nome/legenda: opcionais, aparecem sobre a foto. Use apenas fotos com autorização por escrito do paciente (LGPD / CFO). Depois rode: python build.py",
+  "fotos": [
+    {
+      "foto": "assets/pacientes/paciente-01.webp",
+      "tamanho": "larga",
+      "foco": "center 45%",
+      "alt": "Irmãos sorrindo juntos na clínica",
+      "nome": "",
+      "legenda": "",
+      "original": "Multisorrisos016.jpg"
+    },
+    {
+      "foto": "assets/pacientes/paciente-02.webp",
+      "tamanho": "alta",
+      "foco": "center 30%",
+      "alt": "Menina escovando os dentes e sorrindo",
+      "nome": "",
+      "legenda": "",
+      "original": "Multisorrisos003.jpg"
+    },
+    {
+      "foto": "assets/pacientes/paciente-03.webp",
+      "tamanho": "",
+      "foco": "center 35%",
+      "alt": "Menina sorrindo na cadeira do dentista",
+      "nome": "",
+      "legenda": "",
+      "original": "Multisorrisos008.jpg"
+    },
+    {
+      "foto": "assets/pacientes/paciente-04.webp",
+      "tamanho": "larga",
+      "foco": "center 35%",
+      "alt": "Paciente sorrindo em consulta com a dentista",
+      "nome": "",
+      "legenda": "",
+      "original": "Multisorrisos-Trifolder013.jpg"
+    },
+    {
+      "foto": "assets/pacientes/paciente-05.webp",
+      "tamanho": "",
+      "foco": "center 40%",
+      "alt": "Paciente sorrindo durante avaliação odontológica",
+      "nome": "",
+      "legenda": "",
+      "original": "Multisorrisos-Trifolder009.jpg"
+    },
+    {
+      "foto": "assets/pacientes/paciente-06.webp",
+      "tamanho": "alta",
+      "foco": "center 40%",
+      "alt": "Dentista examinando paciente no consultório",
+      "nome": "",
+      "legenda": "",
+      "original": "Multisorrisos068.jpg"
+    },
+    {
+      "foto": "assets/pacientes/paciente-07.webp",
+      "tamanho": "larga",
+      "foco": "center 55%",
+      "alt": "Sorriso de paciente com aparelho ortodôntico",
+      "nome": "",
+      "legenda": "",
+      "original": "Multisorrisos-Trifolder015.jpg"
+    },
+    {
+      "foto": "assets/pacientes/paciente-08.webp",
+      "tamanho": "",
+      "foco": "center 45%",
+      "alt": "Menino sorrindo com escova de dentes na recepção da MultiSorrisos",
+      "nome": "",
+      "legenda": "",
+      "original": "Multisorrisos014.jpg"
+    },
+    {
+      "foto": "assets/pacientes/paciente-09.webp",
+      "tamanho": "",
+      "foco": "center 45%",
+      "alt": "Adolescente em avaliação odontológica",
+      "nome": "",
+      "legenda": "",
+      "original": "Multisorrisos031.jpg"
+    },
+    {
+      "foto": "assets/pacientes/paciente-10.webp",
+      "tamanho": "larga",
+      "foco": "center 45%",
+      "alt": "Dentista atendendo uma criança no consultório",
+      "nome": "",
+      "legenda": "",
+      "original": "200508Multisorrisos095.jpg"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+<section class="section section--cta" id="agendar">
+  <div class="container cta">
+    <div class="cta__text reveal">
+      <span class="eyebrow eyebrow--light">Dê o primeiro passo</span>
+      <h2>Faça parte da nossa história de sorrisos</h2>
+      <p>Preencha seus dados e fale direto com nossa equipe pelo WhatsApp. Leva menos de 1 minuto.</p>
+      <ul class="checks">
+        <li>{{icon:check}}Resposta rápida em horário comercial</li>
+        <li>{{icon:check}}Avaliação completa, com calma e sem julgamentos</li>
+        <li>{{icon:check}}Plano de tratamento sob medida para você</li>
+      </ul>
+      <div class="cta__alt">
+        <a href="tel:+5581996855675" data-track="phone_click">{{icon:phone:icon--sm}}(81) 99685-5675</a>
+        <span>{{icon:clock:icon--sm}}Seg a Sex, 08h às 18h</span>
+      </div>
+    </div>
+    <form class="form reveal" data-lead-form novalidate>
+      <h3>Agende sua avaliação</h3>
+      <label>Seu nome<input type="text" name="nome" autocomplete="name" required placeholder="Como podemos te chamar?"></label>
+      <label>WhatsApp<input type="tel" name="telefone" autocomplete="tel" inputmode="tel" required placeholder="(81) 90000-0000"></label>
+      <div class="form__row">
+        <label>Especialidade
+          <select name="interesse">
+            <option>Avaliação geral</option>
+            <option>Odontopediatria</option>
+            <option>Ortodontia</option>
+            <option>Estética odontológica</option>
+            <option>Implantes</option>
+            <option>Prótese / Reabilitação</option>
+            <option>Prevenção e limpeza</option>
+          </select>
+        </label>
+        <label>Melhor período
+          <select name="periodo">
+            <option>Manhã</option>
+            <option>Tarde</option>
+            <option>Tanto faz</option>
+          </select>
+        </label>
+      </div>
+      <p class="form__error" role="alert" hidden>Preencha seu nome e um WhatsApp válido.</p>
+      <button type="submit" class="btn btn--wa btn--lg btn--block">{{icon:whatsapp}}Enviar pelo WhatsApp</button>
+      <small>Seus dados são usados apenas para o agendamento.</small>
+    </form>
+  </div>
+</section>

@@ -1,0 +1,16 @@
+# Segredos e dependências
+.env
+node_modules/
+.vercel/
+
+# Fotos originais em alta resolução (pesadas e com dados de pacientes).
+# O site usa as versões otimizadas em assets/pacientes/.
+_src/originais/
+
+# Configuração local do editor/assistente
+.claude/
+
+# Sistema
+Thumbs.db
+.DS_Store
+__pycache__/

@@ -1,0 +1,32 @@
+{
+  "_comentario": "Avaliações reais copiadas da ficha do Google (MultiSorrisos, Caruaru). Para atualizar: edite este arquivo e rode python build.py. 'date' = ano-mês da avaliação.",
+  "rating": 5.0,
+  "total": 76,
+  "placeUrl": "https://www.google.com/maps?cid=854220733199278396",
+  "reviews": [
+    {
+      "author": "worton luis",
+      "rating": 5,
+      "date": "2026-09",
+      "text": "Há 25 faço parte dessa história. Com um certo medo kkkkk. Mas com a confiança dos melhores serviços e carinho pela minha família. Obg a todos que fazem o melhor consultório odontológico de Caruaru. …"
+    },
+    {
+      "author": "Enid Gouveia",
+      "rating": 5,
+      "date": "2026-05",
+      "text": "Meu sentimento com relação aos profissionais da Multisorrisos é gratidão. Não fiz apenas tratamento dentário, mas também um resgate da autoestima. A clínica possui um atendimento humanizado e muito eficiente. Indico de olhos fechados."
+    },
+    {
+      "author": "Suêda Gomes",
+      "rating": 5,
+      "date": "2026-05",
+      "text": "Tenho muitos traumas de infância em relação a dentista, sempre sofri, fico muito nervosa, passo mal, e com a Dra. Willyanne, eu me senti muito mais segura e a calma que ela passa pro paciência é surpreendente!"
+    },
+    {
+      "author": "Suele Carvalho",
+      "rating": 5,
+      "date": "2026-05",
+      "text": "Atendimento impecável do início ao fim! A clínica é simplesmente maravilhosa, com um ambiente extremamente sofisticado, acolhedor e pensado nos mínimos detalhes para proporcionar conforto aos pacientes.\n\nA equipe de dentistas é altamente qualificada, composta por profissionais renomados que transmitem muita segurança e confiança. Fui muito bem atendida, com um cuidado e atenção que fazem toda a diferença.\n\nSem dúvidas, uma experiência cinco estrelas! Recomendo de olhos fechados para quem busca excelência, qualidade e um atendimento diferenciado."
+    }
+  ]
+}
